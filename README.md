@@ -1,6 +1,6 @@
 # Adérito Marrime 
 
-I am a **Fullstack Web Developer** passionate about building clean, functional, and well-structured web applications. I spend my time learning new technologies, improving my development skills, and working on projects that strengthen my experience in both front-end and back-end development.
+I am a **Fullstack Web Developer** passionate about turning ideas into practical web solutions. I spend my time learning new technologies, improving my development skills, and working on projects that strengthen my experience in both front-end and back-end development. I focus on building websites and web application that are reliable, user-friendly and deliver real value, while writing clean, organised and maintainable code.
 
 ## Reach Me
 
